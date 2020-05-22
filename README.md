@@ -1,6 +1,8 @@
 # Cash-Register
 Author: Thomas Kugelmnan
+
 Language: C#
+
 Framework: .NET 4.2.7
 
 ## Description
