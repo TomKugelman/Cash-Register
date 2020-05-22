@@ -1,4 +1,6 @@
-﻿// Author: Tom Kugelman
+﻿// Author: Thomas Kugelman
+ // Language: C#
+ // Framework: .Net 4.2.7
 
 using System;
 using System.Collections.Generic;
